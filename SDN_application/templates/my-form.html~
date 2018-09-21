@@ -1,0 +1,7 @@
+
+<form method="POST">
+    <input name="ip">input ip</input></br>
+    <input name="dpid">input dpid</input></br>
+    <input name="rule">input name</input></br>
+    <input type="submit">
+</form>
